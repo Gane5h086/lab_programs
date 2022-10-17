@@ -1,0 +1,29 @@
+List of commands:
+1. echo hello world - prints hello world on the terminal
+2. cd - change directory
+3. cd .. - return to previous directory
+4. pwd - print present working directory
+5. sudo apt install neofetch - install neofetch package
+6. ls - list directories inside pwd
+7. mkdir - create folder/directory
+8. touch file.txt - create file
+9. man - manual for any command (eg. ‘man sudo’ will show
+manual of sudo command)
+10. rm file.txt - delete file
+11. cp - copy a file/directory
+12. mv - move a file/directory
+13. whoami - prints the username
+14. ipconfig - displays current network information
+15. grep - search for a string in a file
+16. sudo apt install g++ - installs cpp compiler package
+17. chmod - change a file’s read, write and execute permissions
+18. kill - terminate a program or process
+19. wget - download using an url or download link
+20. alias - create a shortcut with the same functionality as a
+command, file name, or text
+21. cat - lists, combines, and writes file content to the standard
+output
+22. head - displays the first ten lines of a text.
+23. tail - displays the last ten lines of a file
+24. history - list up to 500 previously executed commands
+25. clear - cleans the terminal screen
